@@ -33,34 +33,10 @@ sudo -H pip3 install pytest
     pytest assignments/03Promedio
     ```
 
-- ## 04 Calcula tiempo
-    ### Run command
-    ```
-    pytest assignments/04CalculaTiempo
-    ```
-
 - ## 05 Calcula lustros
     ### Run command
     ```
     pytest assignments/05Lustros
-    ```
-
-- ## 06 Calcula peso por mes
-    ### Run command
-    ```
-    pytest assignments/06Peso
-    ```
-
-- ## 07 Pendiente Línea
-    ### Run command
-    ```
-    pytest assignments/07PendienteLinea
-    ```
-
-- ## 08 Caracol
-    ### Run command
-    ```
-    pytest assignments/08Caracol
     ```
 
 - ## 09 Teléfono
@@ -85,28 +61,4 @@ sudo -H pip3 install pytest
     ### Run command
     ```
     pytest assignments/18CuentaBancaria
-    ```
-
-- ## 19 Editorial
-    ### Run command
-    ```
-    pytest assignments/19Editorial
-    ```
-
-- ## 20 Acertijo Edad
-    ### Run command
-    ```
-    pytest assignments/20AcertijoEdad
-    ```
-
-- ## 21 Levadura para Pizza
-    ### Run command
-    ```
-    pytest assignments/21LevaduraParaPizza
-    ```
-
-- ## 22 Digitos Pares
-    ### Run command
-    ```
-    pytest assignments/22DigitosPares
     ```
