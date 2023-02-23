@@ -36,6 +36,17 @@ Dame los ingresos: 57.38
 Dame los egresos: 5.23
 Dame el número de cheques: 2
 El saldo final de la cuenta es: 116.78125
+
+1º descubre que operaciones debes llevar a cabo para obener el saldo final
+esta es una forma
+(100.1 + 57.38 - (5.23 + 2 * 13) ) * 0.925
+otra forma
+(100.1 + 57.38 - 5.23 - 2 * 13)  * 0.925
+otra forma ... piensa otra forma 
+
+2º cambiar todo a terminos de variables que usaste para ingresar los datos de entrada
+saldo_final = (saldo_anterior  + ingresos - (egresos +  cantidad_cheques * 13) ) * 0.925
+
 ```
 
 Una vez que termines tu actividad y la hayas probado con `pytest`, súbela a tu repositorio en GitHub, con el proceso de commit + push.
