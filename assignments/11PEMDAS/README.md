@@ -15,10 +15,11 @@ if __name__ == '__main__':
 
 La línea `#escribe tu código abajo de esta línea` es un comentario, el programa la va a ignorar al ejecutarse.
 
-Modifica el programa para que haga lo siguiente:
+Modifica el programa para convertir las siguientes asignaciones a su equivalente en python:
+- tip - cuando tienes una / debes añadir parentesis ( ) / ( ) cuando se llevan a cabo más de una operación.
 <br>
 Escribe un programa en Python que despliegue en pantalla el resultado de las siguientes operaciones:
-<p>oper1 = 2 &frac34; + 4 &frac23; - 3 &frac15; + 5 &frac12;</p>
+<p>oper1 = 2 (&frac34;) + 4 (&frac23;) - 3 (&frac15;) + 5 (&frac12;) </p>
 <p>oper2 = 2 <span>&#8730;</span>35<sup>2</sup> + 4 <span>&#8730;</span>36<sup>3</sup> - 6<span>&#8730;</span>49<sup>2</sup></p>
 <p>oper3 = (a<sup>3</sup> + 2b<sup>2</sup>) / (4a)</p>
 <p>oper4 = (2(a+b)<sup>2</sup> + 4(a-b)<sup>2</sup>) / ab<sup>2</sup></p>
